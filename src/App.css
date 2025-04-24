@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.lobby-container, .gameroom-container {
+  text-align: center;
+}
+
+.game-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
